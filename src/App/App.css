@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color:#543A43;
+}
+#app {
+  background-color: #F1D9AD;
+  position: absolute;
+  height: 40%;
+  width: 60%;
+  top: 20%;
+  left: 20%;
+  border-radius: 15px;
+  border: 1px solid #929199;
+  
+}
+.h1 {
+  font-family: 'Comic Neue', cursive;
+  color: #ffffff;
+  font-weight: bold;
+}
+.p {
+  position: relative;
+  left: 40%;
+  padding-top: 40px;
+}

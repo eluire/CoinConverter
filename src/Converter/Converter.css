@@ -1,0 +1,51 @@
+.row_1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0;
+}
+.row_2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -2%;
+}
+.row_3 {
+    display: flex;
+    justify-content: center;
+}
+
+.col_1 {
+    padding-left: 10%;
+}
+
+.col_2 {
+    padding-right: 10%;
+}
+select.form-control {
+    width: 200px;
+}
+#input-value { 
+    padding-right: 2%;
+}
+#output-value{
+    padding-left: 2%;
+}
+.input-group-text {
+    background: #929199;
+    color : #ffffff;
+}
+
+#txt_output{
+    background-color:  #ffffff;
+    resize: none;
+}
+
+.btn.btn-outline-secondary:hover {
+    background-color: #929199;
+}
+
+/* .form-control:focus, .form-control:active {
+    outline: #929199 !important;
+    box-shadow: #929199 !important; 
+} */
+
+/* ver como mudar efeito de active  */
